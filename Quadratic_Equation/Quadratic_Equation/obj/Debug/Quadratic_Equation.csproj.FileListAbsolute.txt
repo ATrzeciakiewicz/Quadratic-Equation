@@ -1,0 +1,6 @@
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe.config
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.pdb
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csprojResolveAssemblyReference.cache
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.exe
+c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.pdb
