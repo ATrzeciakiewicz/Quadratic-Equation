@@ -4,3 +4,9 @@ c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quad
 c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csprojResolveAssemblyReference.cache
 c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.exe
 c:\users\agnieszka\documents\visual studio 2013\Projects\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.pdb
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe.config
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.exe
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.pdb
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.pdb
+C:\Users\Agnieszka\Documents\GitHub\Quadratic-Equation\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csprojResolveAssemblyReference.cache
