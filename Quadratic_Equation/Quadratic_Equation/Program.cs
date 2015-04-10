@@ -3,22 +3,31 @@
 
 namespace Quadratic_Equation
 {
-    public interface IQuadraticEquation
-        {
-        void Calculate();
-        }
     class Program
     {       
         static void Main(string[] args)
         {
             QuadraticEquation myEquation = new QuadraticEquation();
+            EquationResult result = myEquation.Calculate();
+
             
             Console.WriteLine("Parameters quadratic equation:");
-            Console.WriteLine("A = " + myEquation.a + ", B = " + myEquation.b + ", C = " + myEquation.c);
 
-            //wywołanie metody
-            myEquation.Validate();
-
+            if (result.Delta < 0)
+            {
+                Console.WriteLine("Discriminant = " + result.Delta);
+                Console.WriteLine("If the discriminant is negative, then there are no real roots");
+            }
+            else if (result.Delta == 0)
+            {
+                Console.WriteLine("Discriminant = " + result.Delta);
+                Console.WriteLine("Solution: x = " + result.X);
+            }
+            else
+            {
+                Console.WriteLine("Discriminant = " + result.Delta);
+                Console.Write("Solution: x1 = " + result.X1 + ", x2 = " + result.X2);
+            }
             Console.ReadLine();
          }
      }                  
